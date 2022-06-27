@@ -5,7 +5,7 @@
 <img style="border-radius:2%!important" 
     width="512px" 
     alt="deepseaareas" 
-    src="WeChatCode.jpg">
+    src="./profile/WeChatCode.jpg">
 
 <!--
 
