@@ -5,7 +5,7 @@
 <img style="border-radius:50%!important" 
 width="512px" 
 alt="deepseaareas" 
-src="[https://avatars.githubusercontent.com/u/49446319?s=64&v=4](https://github.com/DeepSeaAreas/.github/blob/main/profile/WeChatCode.jpg)">
+src="WeChatCode.jpg">
 
 
 <!--
