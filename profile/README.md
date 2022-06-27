@@ -2,11 +2,10 @@
 
 ### Join WeChat
 
-<img style="border-radius:50%!important" 
-width="512px" 
-alt="deepseaareas" 
-src="WeChatCode.jpg">
-
+<img style="border-radius:2%!important" 
+    width="512px" 
+    alt="deepseaareas" 
+    src="WeChatCode.jpg">
 
 <!--
 
