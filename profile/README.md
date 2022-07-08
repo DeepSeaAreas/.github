@@ -34,6 +34,7 @@
 * Revit API 扩展 项目所有方法封装以扩展形式体现
 * 扩展方法均应以中文进行代码块注释说明（详参考案例1）
 * 扩展方法宜添加<code>Code</code>段进行使用使用（本条不作强制要求，各自判断，详参考案例2）
+* API管理文档能通过 Sandcastle Help File Builder
 
 #### 命名规范
 * 扩展类命名后缀加<code>*Extension.cs</code>
