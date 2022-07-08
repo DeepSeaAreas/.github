@@ -6,9 +6,21 @@
 
 ### 代码仓库
 #### Revit Wrapper
+* 几何算法
+* 视图帮助
+* 事务管理
+* 事件管理
+* 数据查询
+* 数据持久化
+* GUI绘图
 
 #### Revit Framework
-
+* MVVM模板
+* WPF UI Control
+* 单元测试
+* 帮助文档
+* 日志
+* 异常捕捉
 
 #### Revit UI Control
 
