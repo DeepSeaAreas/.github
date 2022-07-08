@@ -1,6 +1,6 @@
 <h1 align="center">Deep Sea Areas</h1>
 
-## 🙋‍♀️Introduction
+## 🙋‍♀️介绍
 
 > 第一阶段主要以Revit作为开发对象，对Revit的API进行扩展，增加Reivt开发普适性框架，增加UI控件库（WPF）
 
@@ -27,13 +27,19 @@
 #### Revit Lab WebView
 
 
-## 🌈Contribution GuideLines
+## 🌈指南
 
 ### 编码标准
 #### 标准说明
 * Revit API 扩展 项目所有方法封装以扩展形式体现
 * 扩展方法均应以中文进行代码块注释说明（详参考案例1）
 * 扩展方法宜添加<code>Code</code>段进行使用使用（本条不作强制要求，各自判断，详参考案例2）
+
+#### 命名规范
+* 扩展类命名后缀加<code>*Extension.cs</code>
+* 特征类命名后缀加<code>*Attribute.cs</code>
+* 帮助类命名后缀加<code>*Helper.cs</code>
+* 其他参考微软编码命名标准
 
 #### 案例1
 ``` C#
@@ -73,7 +79,7 @@ public static void NewTransaction(this Document document, Action action = null, 
 }
 ```
 
-## 🍿Join Wechat
+## 🍿加入我们
 
 <p style="text-align:center">
 <img style="border-radius:2%!important" 
