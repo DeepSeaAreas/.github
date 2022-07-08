@@ -2,9 +2,10 @@
 
 ## 🙋‍♀️Introduction
 
-```
-//do someting
-```
+> 第一阶段主要以Revit作为开发对象，对Revit的API进行扩展，增加Reivt开发普适性框架，增加UI控件库（WPF）
+
+### 代码仓库
+
 
 ## 🌈Contribution GuideLines
 
@@ -27,7 +28,7 @@ public static double ConvertToFeet(this double number)
 }
 ```
 
-#### 案例1
+#### 案例2
 ``` C#
 /// <summary>
 /// 为当前文档I/O行为开启一个事务
