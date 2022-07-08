@@ -8,8 +8,17 @@
 
 ## 🌈Contribution GuideLines
 
-```
-//do someting
+### 编码标准
+``` C#
+/// <summary>
+/// 将数值转换为英制
+/// </summary>
+/// <param name="number">要转换的数值</param>
+/// <returns>英制数值结果</returns>
+public static double ConvertToFeet(this double number)
+{
+     return //do someting;
+}
 ```
 
 ## 🍿Join Wechat
